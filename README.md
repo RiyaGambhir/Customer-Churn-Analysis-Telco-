@@ -38,8 +38,7 @@ Telco Customer Churn Dataset from Kaggle.
 
 ## Dashboard Preview
 
-<img width="889" height="496" alt="image" src="https://github.com/user-attachments/assets/e966dcc4-dbca-4f8a-ba31-b3278e388330" />
-
+<img width="885" height="486" alt="image" src="https://github.com/user-attachments/assets/f7ebf014-2848-4b81-acf7-3b3552f1d28b" />
 
 ## Files Included
 
